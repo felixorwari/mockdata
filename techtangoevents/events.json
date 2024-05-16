@@ -1,4 +1,13 @@
 [
-{
-}
+  {
+    "id" : 1223,
+    "category": 'hackathon',
+    "title": 'JavaScript and Craft Beer',
+    "description": 'Wet your beak and douse your keyboard with refreshing brews',
+    "location": 'Silicon Tavern',
+    "date": 'Juna 28, 2024',
+    "time": '20:00',
+    "petsAllowed": true,
+    "host": "Script Brewers",
+  }
 ]
